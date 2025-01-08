@@ -54,5 +54,3 @@ function page() {
 }
 
 export default page;
-
-// new line
